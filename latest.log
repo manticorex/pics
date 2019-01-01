@@ -1,0 +1,228 @@
+[11:18:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[11:18:13] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[11:18:13] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_171
+[11:18:13] [main/INFO] [FML]: Searching C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\.\mods for mods
+[11:18:13] [main/INFO] [FML]: Loading tweaker com.forgeessentials.core.preloader.FELaunchHandler from forgeessentials-1.12.2-12.3.30-server.jar
+[11:18:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Loading tweak class name com.forgeessentials.core.preloader.FELaunchHandler
+[11:18:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:18:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:18:15] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:18:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:18:15] [main/INFO] [LaunchWrapper]: Calling tweak class com.forgeessentials.core.preloader.FELaunchHandler
+[11:18:15] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.10 Source=file:/C:/Users/Ceto/Desktop/Server%20FE%203.12.2018/Server%20-%20Only%20FE%20Test/./mods/forgeessentials-1.12.2-12.3.30-server.jar Service=LaunchWrapper Env=SERVER
+[11:18:15] [main/WARN] [mixin]: MixinEnvironment::setCompatibilityLevel is deprecated and will be removed. Set level via config instead!
+[11:18:15] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[11:18:15] [main/ERROR] [mixin]: Mixin config mixins.forgeessentials.json does not specify "minVersion" property
+[11:18:15] [main/WARN] [mixin]: MixinEnvironment::setCompatibilityLevel is deprecated and will be removed. Set level via config instead!
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\antlr-2.7.7.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\cdi-api-1.1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\classmate-1.3.0.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\dom4j-1.6.1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\el-api-2.2.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\geronimo-jta_1.1_spec-1.1.1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\h2-1.3.175.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\hibernate-commons-annotations-5.0.1.Final.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\hibernate-core-5.2.2.Final.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\hibernate-jpa-2.1-api-1.0.0.Final.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\jandex-2.0.0.Final.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\javassist-3.20.0-GA.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\javax.inject-1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\jboss-logging-3.3.0.Final.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\jsr250-api-1.0.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\mysql-connector-java-5.1.22.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\pircbotx-2.0.1.jar to classpath
+[11:18:15] [main/INFO] [ForgeEssentials]: Added library C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\ForgeEssentials\lib\slf4j-api-1.7.5.jar to classpath
+[11:18:15] [main/INFO] [ASM_ClassInjector]: Scanning injector class com.forgeessentials.core.preloader.injections.MixinEntity
+[11:18:15] [main/INFO] [ASM_ClassInjector]: Found injector method attackEntityFrom_event => func_70097_a(Lnet/minecraft/util/DamageSource;F)Z
+[11:18:15] [main/INFO] [ASM_ClassInjector]: Scanning injector class com.forgeessentials.core.preloader.injections.MixinBlock
+[11:18:15] [main/INFO] [ASM_ClassInjector]: Found injector method onFallenUpon_event => func_180658_a(Lnet/minecraft/world/World;Lnet/minecraft/util/BlockPos;Lnet/minecraft/entity/Entity;F)V
+[11:18:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:18:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:18:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[11:18:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:18:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:18:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[11:18:16] [main/WARN] [mixin]: MixinEnvironment::setCompatibilityLevel is deprecated and will be removed. Set level via config instead!
+[11:18:16] [main/ERROR] [mixin]: Mixin config mixins.forgeessentials.json does not specify "minVersion" property
+[11:18:16] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@796065aa
+[11:18:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[11:18:16] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker has already been visited -- skipping
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:block.MixinBlockPortal, name: com.forgeessentials.core.preloader.mixin.block.MixinBlockPortal
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:block.MixinBlockFire, name: com.forgeessentials.core.preloader.mixin.block.MixinBlockFire
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:block.MixinBlockEndPortal, name: com.forgeessentials.core.preloader.mixin.block.MixinBlockEndPortal
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:command.MixinCommandHandler, name: com.forgeessentials.core.preloader.mixin.command.MixinCommandHandler
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:entity.MixinEntity, name: com.forgeessentials.core.preloader.mixin.entity.MixinEntity
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:entity.player.MixinEntityPlayer, name: com.forgeessentials.core.preloader.mixin.entity.player.MixinEntityPlayer
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:entity.player.MixinEntityPlayerMP, name: com.forgeessentials.core.preloader.mixin.entity.player.MixinEntityPlayerMP
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:item.crafting.MixinCraftingManager, name: com.forgeessentials.core.preloader.mixin.item.crafting.MixinCraftingManager
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:network.MixinNetHandlerPlayServer, name: com.forgeessentials.core.preloader.mixin.network.MixinNetHandlerPlayServer
+[11:18:16] [main/ERROR] [mixin]: Classloader restrictions [PACKAGE_CLASSLOADER_EXCLUSION] encountered loading mixins.forgeessentials.json:MixinDimensionManager, name: com.forgeessentials.core.preloader.mixin.MixinDimensionManager
+[11:18:17] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[11:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[11:18:22] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[11:18:22] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:18:22] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[11:18:22] [Server thread/INFO] [FML]: Searching C:\Users\Ceto\Desktop\Server FE 3.12.2018\Server - Only FE Test\.\mods for mods
+[11:18:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[11:18:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[11:18:24] [Server thread/WARN] [FML]: Missing English translation for forgeessentials: assets/forgeessentials/lang/en_us.lang
+[11:18:24] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[11:18:25] [Server thread/INFO] [STDERR]: [org.slf4j.helpers.Util:report:43]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[11:18:25] [Server thread/INFO] [STDERR]: [org.slf4j.helpers.Util:report:43]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[11:18:25] [Server thread/INFO] [STDERR]: [org.slf4j.helpers.Util:report:43]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[11:18:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, forgeessentials, worldedit] at CLIENT
+[11:18:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, forgeessentials, worldedit] at SERVER
+[11:18:25] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:18:25] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[11:18:25] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:18:25] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:18:25] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:18:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[11:18:25] [Server thread/INFO] [forgeessentials]: Running ForgeEssentials 12.3.30 (880ac3c)
+[11:18:25] [Server thread/INFO] [forgeessentials]: Discovering and loading modules...
+[11:18:25] [Server thread/INFO] [forgeessentials]: Modules from forgeessentials-12.3 are being loaded
+[11:18:26] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[11:18:26] [Server thread/INFO] [forgeessentials]: Requested to disable module ServerVote
+[11:18:26] [Server thread/INFO] [forgeessentials]: Requested to disable module perftools
+[11:18:26] [Server thread/WARN] [FML]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.forgeessentials.permissions.core.ZonedPermissionHelper
+[11:18:26] [Server thread/INFO] [forgeessentials]: Requested to disable module AuthLogin
+[11:18:26] [Server thread/INFO] [forgeessentials]: Discovering and loading FEMob data...
+[11:18:26] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:26] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:26] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:26] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:26] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:26] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:27] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:27] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:18:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[11:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[11:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[11:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[11:18:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[11:18:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:18:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[11:18:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:18:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:18:27] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:27] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:27] [Server thread/INFO] [forgeessentials]: Running ForgeEssentials 12.3.30-nightly (880ac3c)
+[11:18:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[11:18:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[11:18:28] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.8) is loaded
+[11:18:28] [Server thread/INFO] [forgeessentials]: WorldEdit selection provider started.
+[11:18:28] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[11:18:29] [Server thread/INFO] [org.hibernate.Version]: HHH000412: Hibernate Core {5.2.2.Final}
+[11:18:29] [Server thread/INFO] [org.hibernate.cfg.Environment]: HHH000206: hibernate.properties not found
+[11:18:29] [Server thread/INFO] [org.hibernate.cfg.Environment]: HHH000021: Bytecode provider name : javassist
+[11:18:29] [Server thread/INFO] [org.hibernate.annotations.common.Version]: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+[11:18:30] [Server thread/WARN] [org.hibernate.orm.connections.pooling]: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+[11:18:30] [Server thread/INFO] [org.hibernate.orm.connections.pooling]: HHH10001005: using driver [org.h2.Driver] at URL [jdbc:h2:./ForgeEssentials/playerlogger]
+[11:18:30] [Server thread/INFO] [org.hibernate.orm.connections.pooling]: HHH10001001: Connection properties: {user=forgeessentials, password=forgeessentials}
+[11:18:30] [Server thread/INFO] [org.hibernate.orm.connections.pooling]: HHH10001003: Autocommit mode: false
+[11:18:30] [Server thread/INFO] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl]: HHH000115: Hibernate connection pool size: 20 (min=1)
+[11:18:33] [Server thread/INFO] [org.hibernate.dialect.Dialect]: HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[11:18:34] [Server thread/WARN] [org.hibernate.cfg.AnnotationBinder]: HHH000457: Joined inheritance hierarchy [com.forgeessentials.playerlogger.entity.Action] defined explicit @DiscriminatorColumn.  Legacy Hibernate behavior was to ignore the @DiscriminatorColumn.  However, as part of issue HHH-6911 we now apply the explicit @DiscriminatorColumn.  If you would prefer the legacy behavior, enable the `hibernate.discriminator.ignore_explicit_for_joined` setting (hibernate.discriminator.ignore_explicit_for_joined=true)
+[11:18:36] [Server thread/INFO] [org.hibernate.orm.connections.access]: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@fdfd403] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[11:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[11:18:36] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[11:18:36] [Server thread/INFO] [FML]: Applying holder lookups
+[11:18:36] [Server thread/INFO] [FML]: Holder lookups applied
+[11:18:36] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@68b22e32)
+[11:18:37] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[11:18:37] [Thread-9/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim 0...
+[11:18:37] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@68b22e32)
+[11:18:37] [Thread-9/INFO] [forgeessentials]: Listing files for backup of world 0
+[11:18:37] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@68b22e32)
+[11:18:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[11:18:37] [Thread-9/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:37] [Thread-11/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim 1...
+[11:18:37] [Thread-11/INFO] [forgeessentials]: Listing files for backup of world 1
+[11:18:37] [Thread-11/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:37] [Thread-10/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim -1...
+[11:18:37] [Thread-10/INFO] [forgeessentials]: Listing files for backup of world -1
+[11:18:37] [Thread-10/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[11:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (10,969s)! For help, type "help" or "?"
+[11:18:39] [Server thread/INFO] [FML]: Loading dimension 10 (world01) (net.minecraft.server.dedicated.DedicatedServer@68b22e32)
+[11:18:39] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[11:18:39] [Thread-13/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim 10...
+[11:18:39] [Thread-13/INFO] [forgeessentials]: Listing files for backup of world 10
+[11:18:40] [Thread-13/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command gamemode registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command worldborder registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias butcher of command febutcher registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias kill of command fekill registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias weather of command feweather registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command help registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias ? of command help registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias reload of command fereload registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias remove of command feremove registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias biomeinfo of command febiome registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias locate of command felocate registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command alias enchant of command feenchant registered twice
+[11:18:40] [Server thread/ERROR] [forgeessentials]: Command time registered twice
+[11:18:40] [Thread-15/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim -1...
+[11:18:40] [Server thread/INFO] [FML]: Unloading dimension -1
+[11:18:40] [Thread-15/INFO] [forgeessentials]: Listing files for backup of world -1
+[11:18:40] [Server thread/INFO] [FML]: Unloading dimension 1
+[11:18:40] [Thread-15/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:40] [Thread-16/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim 1...
+[11:18:40] [Thread-16/INFO] [forgeessentials]: Listing files for backup of world 1
+[11:18:40] [Thread-16/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Backup finished
+[11:18:47] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[11:18:47] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42
+[11:18:47] [Netty Server IO #2/INFO] [FML]: Attempting connection with missing mods [forgeessentials, worldedit] at CLIENT
+[11:18:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[11:18:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Yukymaru[/127.0.0.1:50093] logged in with entity id 105 at (87.33717470321939, 64.0, 60.34554460127961)
+[11:18:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Yukymaru joined the game
+[11:18:48] [Playerlogger/INFO] [org.hibernate.hql.internal.QueryTranslatorFactoryInitiator]: HHH000397: Using ASTQueryTranslatorFactory
+[11:18:48] [Playerlogger/WARN] [FML]: =============================================================
+[11:18:48] [Playerlogger/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[11:18:48] [Playerlogger/WARN] [FML]: Offender: antlr/Parser.panic()V
+[11:18:48] [Playerlogger/WARN] [FML]: Use FMLCommonHandler.exitJava instead
+[11:18:48] [Playerlogger/WARN] [FML]: =============================================================
+[11:19:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Yukymaru: Given [Command Block] * 1 to Yukymaru]
+[11:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@] hihoo
+[11:20:31] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: paidcommand @p 10 /give @p minecraft:diamond 1
+java.lang.NullPointerException: Player can't be null!
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:787) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:94) ~[PermissionAPI.class:?]
+	at net.minecraft.command.CommandHandler.redirect$hasPermission$zzb000(CommandHandler.java:609) ~[bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:51) ~[bj.class:?]
+	at com.forgeessentials.economy.commands.CommandPaidCommand.processCommandConsole(CommandPaidCommand.java:83) ~[CommandPaidCommand.class:?]
+	at com.forgeessentials.core.commands.ForgeEssentialsCommandBase.processCommandBlock(ForgeEssentialsCommandBase.java:103) ~[ForgeEssentialsCommandBase.class:?]
+	at com.forgeessentials.core.commands.ForgeEssentialsCommandBase.func_184881_a(ForgeEssentialsCommandBase.java:83) ~[ForgeEssentialsCommandBase.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.tileentity.CommandBlockBaseLogic.func_145755_a(SourceFile:125) [amj.class:?]
+	at net.minecraft.block.BlockCommandBlock.func_193387_a(SourceFile:115) [apo.class:?]
+	at net.minecraft.block.BlockCommandBlock.func_180650_b(SourceFile:103) [apo.class:?]
+	at net.minecraft.world.WorldServer.func_72955_a(WorldServer.java:737) [oo.class:?]
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:223) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
+[11:22:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[11:22:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:22:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[11:22:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[11:22:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[11:22:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world01'/overworld
+[11:22:48] [Thread-26/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting backup of dim 0...
+[11:22:48] [Thread-26/INFO] [forgeessentials]: Listing files for backup of world 0
+[11:22:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[11:22:48] [Server thread/INFO] [FML]: Unloading dimension 10
+[11:22:48] [Server thread/INFO] [org.hibernate.orm.connections.pooling]: HHH10001008: Cleaning up connection pool [jdbc:h2:./ForgeEssentials/playerlogger]
+[11:22:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[11:22:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
